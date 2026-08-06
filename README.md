@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Vignesha Jayakumar</h1>
+<h1 align="center">Vignesha Jayakumar</h1>
 
-<h3 align="center">Passionate High School Senior from the Greater Boston Area</h3>
-<h5 align= "center">Reach out at jayakvv@gmail.com</h5>
+<h3 align="center">ECE @ Carnegie Mellon</h3>
+<h5 align= "center">Reach out at vignesha@cmu.edu</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigcode123&label=Profile%20views&color=0e75b6&style=flat" alt="vigcode123" /> </p>
 
